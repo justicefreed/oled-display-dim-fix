@@ -13,8 +13,16 @@ OLED Pulse briefly bends the display's gamma curve on a timer. The change is lar
 
 ## Install
 
+Clone to home folder and install:
+
 ```bash
 gh repo clone justicefreed/oled-display-dim-fix ~/oled-display-dim-fix && ~/oled-display-dim-fix/install.sh
+```
+
+Reinstall:
+
+```bash
+YOUR_PARENT_DIRECTORY/oled-display-dim-fix/install.sh
 ```
 
 Or, with plain git over SSH:
